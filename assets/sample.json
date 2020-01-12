@@ -1,0 +1,69 @@
+{
+    "data" : [{
+        "name":"Rumah Kasih Sayang",
+        "price":"RM 320,000.00",
+        "details" : {
+            "land_area" : "40 x 80",
+            "land_area_sqft" : "3151 sq ft",
+            "tenure" : "Freehold",
+            "baths" : "3 Baths",
+            "beds" : "5 Beds",
+            "tenure_type": "Non Bumi"
+        }
+    },{
+        "name":"Rumah Hantu",
+        "price":"RM 300,000.00",
+        "details" : {
+            "land_area": "50 x 80",
+            "land_area_sqft" : "3000 sq ft",
+            "tenure" : "Freehold",
+            "baths" : "6 Baths",
+            "beds" : "5 Beds",
+            "tenure_type": "Bumi"
+        }
+    },{
+        "name":"Rumah Ku Syurga Ku",
+        "price":"RM 1 400,000.00",
+        "details": {
+            "land_area": "100 x 100",
+            "land_area_sqft" : "5151 sq ft",
+            "tenure" : "Freehold",
+            "baths" : "5 Baths",
+            "beds" : "5 Beds",
+            "tenure_type": "Bumi"
+        }
+    },{
+        "name":"Rumah Kusus",
+        "price":"RM 300,000.00",
+        "details" : {
+            "land_area": "400 x 180",
+            "land_area_sqft" : "31151 sq ft",
+            "tenure" : "Freehold",
+            "baths" : "7 Baths",
+            "beds" : "5 Beds",
+            "tenure_type": "Non Bumi"
+            }
+    },{
+        "name":"Rumah Boss Ku",
+        "price":"RM 300,000.00",
+        "details" : {
+            "land_area": "140 x 80",
+            "land_area_sqft" : "31151 sq ft",
+            "tenure" : "Freehold",
+            "baths" : "6 Baths",
+            "beds" : "5 Beds",
+            "tenure_type": "Non Bumi"
+        }
+    },{
+        "name":"Rumah Kasih Sayang",
+        "price":"RM 1 320,000.00",
+        "details" : {
+            "land_area": "440 x 180",
+            "land_area_sqft" : "13151 sq ft",
+            "tenure" : "Freehold",
+            "baths" : "9 Baths",
+            "beds" : "5 Beds",
+            "tenure_type": "Non Bumi"
+        }
+    }]
+}
